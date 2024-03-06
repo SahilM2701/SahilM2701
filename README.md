@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java Full Stack**
 
-- 🌱 I’m currently learning **Angular,NextJs**
+- 🌱 I’m currently learning **Angular,NextJs,Generative AI**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
